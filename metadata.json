@@ -1,0 +1,6 @@
+{
+  "name": "Nortis AI Assessment Form",
+  "description": "Minimalist and modern landing page form for Nortis AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
